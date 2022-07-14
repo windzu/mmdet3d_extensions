@@ -1,0 +1,2 @@
+# mmdet3d_extensions
+针对mmdetection3d做的一些拓展，例如结合ros直接使用测试预训练模型在某个rosbag下的表现
